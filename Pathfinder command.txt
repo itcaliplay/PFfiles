@@ -1,0 +1,4 @@
+Copy and run the following command on target machine with elevated permissions:
+
+
+msiexec q i pathfinder-x64-5.1.8-en-us.msi LV CWindowsTemppathfinder_install.log SERVER=chestnut.velocityapp.co PROXY=noproxy ACCEPT_EULA=1 API_KEY=6eb9b60b-0709-dc8a-ed7e-e45fcc969b78
