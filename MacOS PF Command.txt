@@ -1,0 +1,2 @@
+sudo chmod +x pathfinder-5.1.8-installer-macos.sh
+sudo ./pathfinder-5.1.8-installer-macos.sh
